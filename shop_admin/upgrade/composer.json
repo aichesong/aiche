@@ -1,0 +1,6 @@
+{
+    "require": {
+        "michelf/php-markdown": "^1.7",
+        "alchemy/zippy": "^0.4.8"
+    }
+}
